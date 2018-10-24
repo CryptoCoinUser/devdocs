@@ -25,7 +25,7 @@ Using GitHub will be a daily process so it is very important that you understand
 	1. This step should create a remote named `origin` that points to `https://github.com/mkdecisiondev/project.git`
 1. Create a fork of the repository by clicking the "Fork" button at the top right of the page
     ![fork button](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
-1. Add a remote for your fork: `git remote add <GitHub username> https://github.com/<GitHub username>/project.git`
+1. Add a remote for your fork: `git remote add CryptoCoinUser https://github.com/CryptoCoinUser/project.git`
 1. Create a new branch based off master: `git checkout -b my-branch`
 1. Do your work and make some commits in "my-branch"
 1. When your work is done and you are ready to submit a [pull request](https://help.github.com/articles/about-pull-requests/), check if master has been updated
