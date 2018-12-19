@@ -23,7 +23,7 @@ Using GitHub will be a daily process so it is very important that you understand
 
 1. Create a fork of the repository by clicking the "Fork" button at the top right of the page
     ![fork button](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
-1. Clone the main repository, e.g. `git clone git@github.com:CryptoCoinUser/project.git`
+1. Clone the main repository, e.g. `git clone git@github.com:mkdecisiondev/project.git`
 	1. This step should create a remote named `origin` that points to `https://github.com/mkdecisiondev/project.git`
 1. `cd project`
 1. Add a remote for your fork: `git remote add CryptoCoinUser git@github.com:CryptoCoinUser/project.git`
